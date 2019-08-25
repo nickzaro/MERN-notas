@@ -10,3 +10,5 @@ async function main() {
 }
 
 main();
+
+//TODO: stack MERN #7 fazt
